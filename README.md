@@ -2,8 +2,8 @@
 
 
 <h1 align="left">Hi , I'm Beyza</h1>
- <img align="left" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" />
-<h2 align="left">I'm a mobile developer. I love learning and searching different technologies</h3>
+ <img align="left" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="250" height="250" />
+<h3 align="left">I'm a mobile developer. I love learning and searching different technologies</h3>
 
 
 
