@@ -1,10 +1,14 @@
 
-## Hello, I am Beyza!  :blush:
-
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="300" height="250" />
 
 
-### I'm a mobile developer. I love learning and searching different technologies.:sparkles:
+<h1 align="left">Hi , I'm Beyza</h1>
+ <img align="left" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" />
+<h2 align="left">I'm a mobile developer. I love learning and searching different technologies</h3>
 
-[<img  width="44" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" align="left" />](https://twitter.com/ByzaKrdnzz)
-[<img  width="44" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />](https://www.linkedin.com/in/krdnzbeyza1999/)
+
+
+<p align="left">
+<a href="https://twitter.com/byzakrdnzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="byzakrdnzz" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/krdnzbeyza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krdnzbeyza" height="40" width="40" /></a>
+<a href="https://medium.com/@byzakrdnzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@byzakrdnzz" height="40" width="40" /></a>
+</p>
